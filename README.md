@@ -17,7 +17,7 @@
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
-[<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/yxbNkFp5/Group-1.png"/>](https://www.npmjs.com)
+[<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
 
