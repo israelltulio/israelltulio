@@ -31,6 +31,7 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 
 #### Database e Cloud:
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
+[<img height="48px" width="48px" alt="Icone Google Cloud" src="https://skillicons.dev/icons?i=googlecloud"/>](https://cloud.google.com/)
 [<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
 
 ##
