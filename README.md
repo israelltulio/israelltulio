@@ -26,11 +26,13 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 [<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
 [<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
 [<img height="48px" width="48px" alt="Icone Npm.js" src="https://i.postimg.cc/L8k9jKJ2/Group.png"/>](https://www.npmjs.com)
+[<img height="48px" width="48px" alt="Icone Express" src="https://skillicons.dev/icons?i=express"/>](https://expressjs.com/pt-br/)
 
 ##
 
 #### Database e Cloud:
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
+[<img height="48px" width="48px" alt="Icone Cloudflare" src="https://skillicons.dev/icons?i=cloudflare"/>](https://www.cloudflare.com/pt-br/)
 [<img height="48px" width="48px" alt="Icone Google Cloud" src="https://skillicons.dev/icons?i=googlecloud"/>](https://cloud.google.com/)
 [<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
 
@@ -51,7 +53,7 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 
 #### Como entrar em contato comigo:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/israelltulio)
-[<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:israelltulio@icloud.com)
+[<img alt="Mail Apple" src="https://img.shields.io/badge/mail-FFFFFF?style=for-the-badge&logo=apple&logoColor=black"/>](mailto:israelltulio@icloud.com)
 
 ##
 
@@ -72,8 +74,8 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)
 **Software Developer** \
 [**Cubos Academy**](https://cubos.academy/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `PostgreSQL`
+Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`
+<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `TypeScript`, `Node.js`, `APIs Rest`, `SQL`
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
