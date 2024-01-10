@@ -84,8 +84,5 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) 
 #### Estatísticas:
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelltulio&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=israelltulio&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
-[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=israelltulio&amp;theme=radical"/>](https://github.com/)
-
-
-[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=israelltulio&theme=radical&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>](https://github.com/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=israelltulio&theme=radical&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>](https://github.com/)
 
