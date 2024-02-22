@@ -18,6 +18,7 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 [<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
 [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
 [<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
 
 ##
 
@@ -30,11 +31,11 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 
 ##
 
-#### Database e Cloud:
+#### Database  /  Cloud  /  Security:
 [<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org)
-[<img height="48px" width="48px" alt="Icone Cloudflare" src="https://skillicons.dev/icons?i=cloudflare"/>](https://www.cloudflare.com/pt-br/)
 [<img height="48px" width="48px" alt="Icone Google Cloud" src="https://skillicons.dev/icons?i=googlecloud"/>](https://cloud.google.com/)
 [<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
+[<img height="48px" width="48px" alt="Icone Cloudflare" src="https://skillicons.dev/icons?i=cloudflare"/>](https://www.cloudflare.com/pt-br/)
 
 ##
 
@@ -45,6 +46,7 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 [<img height="48px" width="48px" alt="Icone Beekeeper" src="https://i.postimg.cc/j5sT81d4/beekeeperstudio.png"/>](https://www.beekeeperstudio.io)
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone Obsidian" src="https://skillicons.dev/icons?i=obsidian"/>](https://obsidian.md)
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 [<img height="48px" width="48px" alt="Icone Adobe Ilustrator" src="https://skillicons.dev/icons?i=ai"/>](https://www.adobe.com/br/products/illustrator.html)
 [<img height="48px" width="48px" alt="Icone Adode Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
