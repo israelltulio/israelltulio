@@ -76,7 +76,7 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)
 **Software Developer** \
 [**Cubos Academy**](https://cubos.academy/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`
+Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `TypeScript`, `React.js`
 <br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `TypeScript`, `Node.js`, `APIs Rest`, `SQL`
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
