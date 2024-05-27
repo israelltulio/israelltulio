@@ -63,7 +63,7 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encurtador.com.br/ZSB9F"/>](https://www.rovemabank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/DzRd5zgB/Group-283.png"/>](https://www.rovemabank.com.br/)
 **Strategy and Innovation Analyst** \
 [**Rovema Bank**](https://www.rovemabank.com.br/) • Full-time \
 Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
