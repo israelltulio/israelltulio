@@ -6,7 +6,7 @@
 - 🔰  Sou de Porto Velho/RO, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
 - 🧠 Estudante de Desenvolvimento de Software na Cubos Academy
-- 🏦 Atualmente trabalho como Analista de Estratégia e Inovação na UzziPay, uma Fintech do Norte que opera em Bank, API Pix e Soluções de Pagamento.
+- 🏦 Atualmente trabalho como Analista de Estratégia e Inovação na Rovema Bank, uma Fintech do Norte que opera em Bank, API Pix e Soluções de Pagamento.
 
 A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as quais trabalho, juntamente com informações sobre minha experiência profissional e acadêmica.
 
@@ -63,9 +63,9 @@ A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as q
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>](https://www.uzzipay.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encurtador.com.br/ZSB9F"/>](https://www.rovemabank.com.br/)
 **Strategy and Innovation Analyst** \
-[**UzziPay**](https://www.uzzipay.com/) • Full-time \
+[**Rovema Bank**](https://www.rovemabank.com.br/) • Full-time \
 Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
 <br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
 
