@@ -6,7 +6,7 @@
 - 🔰  Sou de Porto Velho/RO, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
 - 💻 Web Developer
-- 🏦 Atualmente trabalho como Analista de Estratégia e Inovação na Rovema Bank, uma Fintech do Norte que opera em Bank, API Pix e Soluções de Pagamento.
+- 🏦 Atualmente sou Co-fundador e Desenvolvedor na KR8, uma agência do Norte especializada no lançamento e introdução de novas marcas no mercado.
 
 A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as quais trabalho, juntamente com informações sobre minha experiência profissional e acadêmica.
 
