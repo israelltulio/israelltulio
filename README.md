@@ -6,7 +6,7 @@
 - 🔰  Sou de Porto Velho/RO, Brasil
 - ⚡ Apaixonado por Música e Tecnologia
 - 💻 Web Developer
-- 🏦 Atualmente sou Co-fundador e Desenvolvedor na KR8, uma agência do Norte especializada no lançamento e introdução de novas marcas no mercado.
+- 🏦 Atualmente sou Co-fundador e Desenvolvedor da KR8, uma agência do Norte especializada no lançamento e introdução de novas marcas no mercado.
 
 A seguir, você encontrará detalhes sobre as tecnologias e ferramentas com as quais trabalho, juntamente com informações sobre minha experiência profissional e acadêmica.
 
